@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xkl:home|Door43 (xkl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xkl|d43-xkl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xkl/archive/master.zip|d43-xkl.zip]]
+
+**Recent Changes**
+{{changes>ns = xkl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xkl|Ethnologue data]]
+
